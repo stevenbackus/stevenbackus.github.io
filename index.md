@@ -1,9 +1,8 @@
-# Welcome!!!
+# Data Analytics & Visualization Portfolio
 
-### Welcome!!!
 ---
 
-### My Data Analytics & Visualization Projects
+### My Projects:
 
 ---
 #### [DoorDash Project](https://www.linkedin.com/pulse/hungry-success-role-data-analytics-doordash-direct-marketing-backus/)
@@ -24,15 +23,6 @@ Data visualization with Tableau. In this case study from Data Analytics Accelera
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
