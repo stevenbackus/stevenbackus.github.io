@@ -1,10 +1,11 @@
 title: Steven Backus # your name (or website title) here
 logo: "/images/WIN_20211029_13_01_18_Pro.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  **Analytical excellence.** <br>
-  **Innovative solutions.** <br>
-  **Optimized operations.** <br><br>
-  <a href="https://www.linkedin.com/in/stevenbackus/">View My LinkedIn Profile</a> 
+  <br>
+  ##Analytical excellence. <br>
+  ##Innovative solutions. <br>
+  ##Optimized operations. <br><br>
+  <a href="https://www.linkedin.com/in/stevenbackus/">View My LinkedIn Profile</a> <br>
   <a href="https://public.tableau.com/app/profile/steven.backus">View My Tableau Public Profile</a>
   
 theme: jekyll-theme-minimal
