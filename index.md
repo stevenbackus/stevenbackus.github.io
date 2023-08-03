@@ -2,21 +2,15 @@
 
 ---
 
-### Learn About My Projects
-
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+### My Projects
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/Education Project.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [DoorDash Project](https://www.linkedin.com/pulse/hungry-success-role-data-analytics-doordash-direct-marketing-backus/))
+[<img src="images/hunger on! (4).png?raw=true"/>](https://www.linkedin.com/pulse/hungry-success-role-data-analytics-doordash-direct-marketing-backus/)
+Data Analysis with Excel. In this case study from Data Analytics Accelerator, I was prompted to analyze customer data from an iFood job interview case study given by the Brazilian equivalent of DoorDash, iFood. The main focus is:
+Understand the data.
+Find business opportunities & insights.
+Propose any data-driven action to optimize the results of the campaigns & generate value for the company.
 
 
 ---
