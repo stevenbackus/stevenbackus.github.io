@@ -1,5 +1,4 @@
-# Data Analytics &
-# Visualization Portfolio
+# Analytics & Visualization Portfolio
 
 ---
 
