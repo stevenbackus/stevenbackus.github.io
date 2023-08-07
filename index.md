@@ -23,6 +23,12 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 
 ---
 
+#### [Finance Project - Data Analysis with SQL](https://www.linkedin.com/pulse/unveiling-excellence-education-data-analysis-success-steve-backus/)
+[<img src="images/Finance Project.png?raw=true"/>](https://www.linkedin.com/pulse/unveiling-excellence-education-data-analysis-success-steve-backus/)
+In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were to identify:
+- What schools are struggling the most?
+- How does class size affect college admission?
+- What are the top math schools in the state? 
 
 
 
