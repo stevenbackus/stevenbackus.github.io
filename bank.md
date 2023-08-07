@@ -1,7 +1,9 @@
-# Bank Project
+# The Finance Project - World Bank International Development Association's Projects and Programs in Pakistan
 
 
-This is my bank project
+In the summer of 1981 my family packed up our household in rural Idaho and flew around the world to a new home and adventure in Islamabad, Pakistan. My father's new role in USAID/Pakistan's Office of Acriculture and Rural Development would keep us there for the next six years.   our home.This is my bank project
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ## This can be a template for an internal prject
 
@@ -10,9 +12,7 @@ This is my bank project
 Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
 ### 1. You can have sections and text.
-
-Just like this. And you can even add internal coding blocks
-
+ 
 ```python
 print('this is the python code I used to solve this problem')
 ```
