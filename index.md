@@ -23,8 +23,8 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 
 ---
 
-#### [Finance Project - Data Analysis with SQL]((/bank))
-[<img src="images/Finance Project.png?raw=true"/>]((/bank))
+#### [Finance Project - Data Analysis with SQL](/bank)
+[<img src="images/Finance Project.png?raw=true"/>](/bank)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were to identify:
 - What schools are struggling the most?
 - How does class size affect college admission?
