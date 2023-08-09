@@ -1,9 +1,13 @@
-# The Finance Project - World Bank International Development Association's Projects and Programs in Pakistan
+# The Finance Project - World Bank Group International Development Association's Projects and Programs in Pakistan
 
 
-In the summer of 1981 my family packed up our household in rural Idaho and flew around the world to a new home and adventure in Islamabad, Pakistan. My father's new role in USAID/Pakistan's Office of Acriculture and Rural Development would keep us there for the next six years.   our home.This is my bank project
+In the summer of 1981 my family packed up our household in rural Idaho and flew around the world to a new home and adventure in Islamabad, Pakistan. My father's new role in USAID/Pakistan's Office of Acriculture and Rural Development would keep us there for the next six years. I saw, first hand, the benefits of many World Bank projects. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bankingprojectroller.tif?raw=true"/>
+
+Some World Bank projects - like the On-Farm Water Management Program - also had support and bilateral funding from USAID. While the World Bank and USAID have distinct roles, they often collaborate and coordinate their efforts to maximize the impact of their development projects. 
+
+
 
 ## This can be a template for an internal prject
 
