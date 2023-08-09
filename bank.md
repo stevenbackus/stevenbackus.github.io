@@ -12,7 +12,7 @@ Some World Bank projects - like the On-Farm Water Management Program - also had 
 
 ### The Data and Initial Observations
 
-The dataset is from the World Bank -- specifically, [The International Development Association (IDA) Statement of Credits and Grants - Historical Data](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) updated July 10, 2023. It is a listing of all development credits, grants, and loans provided to countries by the World Bank Group. 
+The dataset is from the World Bank -- specifically, [The International Development Association (IDA) Statement of Credits and Grants - Historical Data](/tdhttps://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx) updated July 10, 2023. It is a listing of all development credits, grants, and loans provided to countries by the World Bank Group. 
 - Data as of 30 June 2023
 - 1.19M Rows & 30 Columns
 - Each row represents a monthly statement mentioning a specific single credit or grant
@@ -31,6 +31,15 @@ Next, I wanted to see the same information for any projects related to Tarbela D
 
 <img src="images/q-tarbelalist.png?raw=true"/>
 <img src="images/qr-tarbelalist.png?raw=true"/>
+
+I wondered how much Pakistan had received, repaid, and owed to the IDA.
+Your query seems to be calculating the sums of various columns from the subquery's results, which aggregates data based on each unique combination of "Project ID" and "Credit Number" in the "banking_data" table where the country is 'Pakistan'. The subquery calculates the maximum and minimum values for certain columns and groups the data by "Project ID" and "Credit Number."
+A of 30 June 2023
+Total disbursed by IDA US$24,074,944,917.75	
+Total repaid to IDA US$6,301,182,479.36	
+Total due to IDA US$7,964,484,570.259996
+
+If you run this query, it should return the sums of the specified columns for each group of "Project ID" and "Credit Number."
 
 <img src="images/q-sumlistedprojectcredits.png?raw=true"/>
 <img src="images/qr-sumlistedprojectcredits.png?raw=true"/>
