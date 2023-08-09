@@ -11,7 +11,7 @@ Some World Bank projects - like the On-Farm Water Management Program - also had 
 
 <img src="images/bankingprojectroller.tif?raw=true"/><img src="images/bankingprojectscrapers.tif?raw=true"/>
 
-
+-----
 
 ### The Data and Initial Thoughts
 
@@ -27,7 +27,7 @@ Considering my history and personal experience, I will be focusing my analysis o
 - How much Pakistan has received from IDA and how much has been paid back and still owed?
 - The range and average of the service charge rate?
 
-
+-----
 
 ### Insights
 The first step in my analysis was to identify all credits or grants for Pakistan. My first query retrieves the specified columns, perform the necessary aggregations for each group (to eliminate duplicate entries caused by multiple statements), and then order the results based on the "Original Principal Amount (US$)" column in descending order for each unique combination of "Project ID" and "Credit Number" in the "banking_data" table where the country is 'Pakistan'.
@@ -56,7 +56,7 @@ Lastly, I would like to find the average, minimum, and maximum service charge ra
 <img src="images/q-avgminmaxservicecharge.png?raw=true"/>
 <img src="images/qr-avgminmaxservicecharge.png?raw=true"/>
 
-
+-----
 
 ### Conclusions
 The World Bank has been involved in various development projects and initiatives in Pakistan supporting: infrastructure development, education and health, water resource management, social safety nets, financial sector reforms, disaster recovery and resillience, governance and public sector management, trade and investment, and environmental sustainability. The data has shown:
@@ -70,5 +70,5 @@ The World Bank has been involved in various development projects and initiatives
 - Average Service Charge Rate is 1.17%. The rate varies from 0% - 5.86%. (Note that the data dictionary indicates a "0" rate may indicate loans have more than one interest rate.)
 
 
-_____
+-----
 Thank you for taking the time to read my article! Your support and engagement is appreciated and I welcome your feedback and ideas. What can I do better?
