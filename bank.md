@@ -32,7 +32,7 @@ Considering my history and personal experience, I will be focusing my analysis o
 ### Insights
 The first step in my analysis was to identify all credits or grants for Pakistan. My first query retrieves the specified columns, perform the necessary aggregations for each group (to eliminate duplicate entries caused by multiple statements), and then order the results based on the "Original Principal Amount (US$)" column in descending order for each unique combination of "Project ID" and "Credit Number" in the "banking_data" table where the country is 'Pakistan'.
 From these results I can quickly see there are 310 projects loans or credits
-They range from US$803,970.92 to US$600,000,000.
+They range from US$803,970.92 up to US$600,000,000.
 
 <img src="images/q-listedprojectcredits.png?raw=true"/>
 <img src="images/qr-listedprojectcredits.png?raw=true"/>
@@ -59,6 +59,7 @@ Lastly, I would like to find the average, minimum, and maximum service charge ra
 
 
 ### Conclusions
+The World Bank has been involved in various development projects and initiatives in Pakistan supporting: infrastructure development, education and health, water resource management, social safety nets, financial sector reforms, disaster recovery and resillience, governance and public sector management, trade and investment, and environmental sustainability. The data has shown:
 - There are 310 projects loans or credits for Pakistan.
 - The amounts committed (Original Principal Amounts) range from US$803,970.92 to US$600,000,000.
 - Two grants relating to Tarbela Dam for which US$251,155,143.85 and US$35,000,000 has been disbursed.
