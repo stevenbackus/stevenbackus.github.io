@@ -28,7 +28,6 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 In this case study from Data Analytics Accelerator, I was prompted to analyze the World Bank Group data. Specifically, the International Development Association (IDA) Statement of Credits and Grants - Historical Data. The main focuses were to identify:
 - How many total credits / grants have been extended to the country?
 - The range of amounts committed by IDA for projects?
-- Which project funding was for Tarbela Dam?
 - How much the country has received from IDA and how much has been paid back and still owed?
 - The range and average of the service charge rate?
 
