@@ -4,9 +4,9 @@
 ## World Bank Group International Development Association's Projects and Programs in Pakistan
 
 
-In the summer of 1981, my family packed up our household in rural Idaho and flew around the world to a new home in Islamabad, Pakistan. I was 9 years old at the time and this was an adventure. My father's new role in USAID/Pakistan's Office of Acriculture and Rural Development would keep us there for the next six years. 
+In the summer of 1981, my family packed up our household in rural Idaho and flew around the world to a new home in Islamabad, Pakistan. I was 9 years old at the time and this was an adventure. My father's new role in USAID/Pakistan's Office of Agriculture and Rural Development would keep us there for the next six years. 
 
-I saw, firsthand, the significant benefits of World Bank and other development projects. Tarbela Dam, the world's largest earth-filled dam, was probably the first that I saw on a school field trip. The World Bank has funded a few projects there to expand hydroelectric production. (Appologies for my poor photography skills.)  
+I saw, firsthand, the significant benefits of the World Bank and other development projects. Tarbela Dam, the world's largest earth-filled dam, was probably the first that I saw on a school field trip. The World Bank has funded a few projects there to expand hydroelectric production. (Appologies for my poor photography skills.)  
 
 <img src="images/bankingtarbelafill.tif?raw=true"/><img src="images/bankingtarbelaspillway.tif?raw=true"/><img src="images/bankingtarbelagates.tif?raw=true"/>
 
@@ -70,11 +70,11 @@ The World Bank has been involved in various development projects and initiatives
 - There are 310 projects loans or credits for Pakistan.
 - The amounts committed (Original Principal Amounts) range from US$803,970.92 to US$600,000,000.
 - Two grants relating to Tarbela Dam for which US$251,155,143.85 and US$35,000,000 has been disbursed.
+- Average Service Charge Rate is 1.17%. The rate varies from 0% - 5.86%. (Note that the data dictionary indicates a "0" rate may indicate loans have more than one interest rate.)
 - As of 30 June 2023, the data shows:
    - Total disbursed by IDA to Pakistan: US$24,074,944,917.75	
    - Total amount repaid to IDA: US$6,301,182,479.36	
    - Total due to IDA: US$7,964,484,570.26
-- Average Service Charge Rate is 1.17%. The rate varies from 0% - 5.86%. (Note that the data dictionary indicates a "0" rate may indicate loans have more than one interest rate.)
 
 
 -----
