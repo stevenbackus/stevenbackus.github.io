@@ -1,4 +1,7 @@
-# The Finance Project - World Bank Group International Development Association's Projects and Programs in Pakistan
+<img src="images/Finance Project (1).png?raw=true"/>
+# Finance Project - Data Analysis with SQL
+
+## World Bank Group International Development Association's Projects and Programs in Pakistan
 
 
 In the summer of 1981, my family packed up our household in rural Idaho and flew around the world to a new home in Islamabad, Pakistan. I was 9 years old at the time and this was an adventure. My father's new role in USAID/Pakistan's Office of Acriculture and Rural Development would keep us there for the next six years. 
@@ -21,9 +24,9 @@ The dataset provided is from the World Bank Group -- specifically, [The Internat
 - Each row represents a monthly statement mentioning a specific single credit or grant
 
 Considering my history and personal experience, I will be focusing my analysis on IDA credits and grants to Pakistan. During my analysis, I will attempt to answer the following questions:
-- How many total credits / grants have been extended to the country?
+- How many total credits or grants have been extended to the country?
 - The range of amounts committed by IDA for projects?
-- Which projects were for Tarbela Dam?
+- Which project funding is for Tarbela Dam?
 - How much Pakistan has received from IDA and how much has been paid back and still owed?
 - The range and average of the service charge rate?
 
@@ -37,10 +40,12 @@ They range from US$803,970.92 up to US$600,000,000.
 <img src="images/q-listedprojectcredits.png?raw=true"/>
 <img src="images/qr-listedprojectcredits.png?raw=true"/>
 
+
 Next, I wanted to see the same information for any projects related to Tarbela Dam. I added a line to the query to find where the "Project Name" contains the case-insensitive substring 'tarbela'.
 
 <img src="images/q-tarbelalist.png?raw=true"/>
 <img src="images/qr-tarbelalist.png?raw=true"/>
+
 
 I wondered how much Pakistan had received, repaid, and owed to the IDA. This query calculates the sums of various columns from the subquery's results, which aggregates data based on each unique combination of "Project ID" and "Credit Number" in the "banking_data" table where the country is 'Pakistan'. 
 As of 30 June 2023, the data shows:
@@ -50,6 +55,7 @@ As of 30 June 2023, the data shows:
 
 <img src="images/q-sumlistedprojectcredits.png?raw=true"/>
 <img src="images/qr-sumlistedprojectcredits.png?raw=true"/>
+
 
 Lastly, I would like to find the average, minimum, and maximum service charge rates. This query calculates the average, minimum, and maximum service charge rates based on the subquery's results for each unique combination of "Project ID" and "Credit Number" in the "banking_data" table where the country is 'Pakistan'. The results are rounded to two decimal places using the ROUND function.
 
