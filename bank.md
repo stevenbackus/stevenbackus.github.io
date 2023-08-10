@@ -1,5 +1,5 @@
-<img src="images/Finance Project (1).png?raw=true"/>
 # Finance Project - Data Analysis with SQL
+
 
 ## World Bank Group International Development Association's Projects and Programs in Pakistan
 
@@ -61,6 +61,7 @@ Lastly, I would like to find the average, minimum, and maximum service charge ra
 
 <img src="images/q-avgminmaxservicecharge.png?raw=true"/>
 <img src="images/qr-avgminmaxservicecharge.png?raw=true"/>
+
 
 -----
 
