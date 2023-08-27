@@ -22,7 +22,6 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 - What are the top math schools in the state? 
 
 ---
-
 #### [Finance Project - Data Analysis with SQL](/bank)
 [<img src="images/Finance Project (1).png?raw=true"/>](/bank)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the World Bank Group data. Specifically, the International Development Association (IDA) Statement of Credits and Grants - Historical Data. The main focuses were to identify:
@@ -31,5 +30,8 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze th
 - How much the country has received from IDA and how much has been paid back and still owed?
 - The range and average of the service charge rate?
 
+---
+#### [Comming soon... Healthcare Project - Data Analysis with MySQL](https://www.linkedin.com/pulse/unveiling-excellence-education-data-analysis-success-steve-backus/)
+[<img src="images/SQLRX.png?raw=true"/>](https://www.linkedin.com/pulse/unveiling-excellence-education-data-analysis-success-steve-backus/)
 
 
